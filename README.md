@@ -4,7 +4,7 @@ This is a repository to store our team's  trainingg project.Include some topics 
 NAME: WHAT IS A GOOD NAME?
 Teame Member:Zker58,Retiree,Gonna win.
 The select topic:
-
+2021 NUEDC F topic.
 You can find that ,there are four branchs, Becasue we plane let everyoen to pull theirself project and code. And the last project we will pull in main
 
 
