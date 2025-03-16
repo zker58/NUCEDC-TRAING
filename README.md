@@ -5,7 +5,7 @@ NAME: WHAT IS A GOOD NAME?
 Teame Member:Zker58,Retiree,Gonna win.
 The select topic:
 
-You can find that ,there are four branchs, Becasue we plane let everyoen to pull theirself project and code. 
+You can find that ,there are four branchs, Becasue we plane let everyoen to pull theirself project and code. And the last project we will pull in main
 
 
 More detail you can look throug the fill[]
