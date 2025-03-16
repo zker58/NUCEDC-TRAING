@@ -7,6 +7,7 @@ Teame Member:Zker58,Retiree,Gonna win.
 
 ### The select topic:
 2021 NUEDC F topic.
-You can find that ,there are four branchs, Becasue we plane let everyoen to pull theirself project and code. And the last project we will pull in main.
+You can find that ,there are five branchs,  We plane let everyoen to pull theirself project and code. And the last project we will pull in main.
+And the branch-master si to store information.
 
 ## More detail you can look throug the branch-master
