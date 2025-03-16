@@ -18,7 +18,7 @@ Zker58：stm32掌握80%，掌握pid算法的原理但未实践，对于stm32flas
 掌握基本的PCB制图。    
 正在学习K210视觉。    
     
-Retiree：stm32标准库学到模数转换，HAL库I2C通信，会基础PCB制图。。正在学习Openmv。    
+Retiree：stm32标准库学到模数转换，HAL库I2C通信，会基础PCB制图。正在学习Openmv。    
     
 Gonna win：stm32掌握50%，目前学HAL库，PID算法。
     
